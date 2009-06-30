@@ -1,0 +1,7 @@
+BUILD
+
+# ant
+
+RUN
+
+# java -jar dist/getter.jar http://threestarchina.com/index.html
